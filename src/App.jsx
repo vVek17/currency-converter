@@ -1,5 +1,6 @@
 import InputBox from "./components/InputBox";
 import Button from "./components/Button";
+import useCurrencyInfo from "./hooks/useCurrencyInfo";
 
 function App() {
   return (
